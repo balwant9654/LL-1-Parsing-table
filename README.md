@@ -1,10 +1,18 @@
 # LL-1-Parsing-table
 
-![Screenshot (507)](https://user-images.githubusercontent.com/51070727/112110926-8e824c00-8bd9-11eb-9546-a84c44b67449.png)
-![Screenshot (508)](https://user-images.githubusercontent.com/51070727/112110932-8fb37900-8bd9-11eb-88ca-1408af2eefc9.png)
-![Screenshot (509)](https://user-images.githubusercontent.com/51070727/112110936-8fb37900-8bd9-11eb-82ed-7655f3f9727f.png)
-![Screenshot (510)](https://user-images.githubusercontent.com/51070727/112110940-904c0f80-8bd9-11eb-917c-685a88794e67.png)
-![Screenshot (511)](https://user-images.githubusercontent.com/51070727/112110941-90e4a600-8bd9-11eb-81ad-93acac682825.png)
-![Screenshot (512)](https://user-images.githubusercontent.com/51070727/112110943-90e4a600-8bd9-11eb-82dd-bf5c01e6bbcb.png)
-![Screenshot (513)](https://user-images.githubusercontent.com/51070727/112110944-917d3c80-8bd9-11eb-8d54-71d34c6d546e.png)
-![Screenshot (514)](https://user-images.githubusercontent.com/51070727/112110946-9215d300-8bd9-11eb-9b01-3b2deb92c0a8.png)
+## Sample Output 1 :
+
+![(23-03-2021)(Output1-1)](https://user-images.githubusercontent.com/51070727/112111564-5e877880-8bda-11eb-8c75-3d2f3bdcf43d.png)
+![(23-03-2021)(Output1-2)](https://user-images.githubusercontent.com/51070727/112111570-5fb8a580-8bda-11eb-9a56-b7357e2234bf.png)
+![(23-03-2021)(Output1-3)](https://user-images.githubusercontent.com/51070727/112111571-60513c00-8bda-11eb-8fb1-ae42e7c1d4ee.png)
+
+## Sample Output 2 :
+
+![(23-03-2021)(Output2-1)](https://user-images.githubusercontent.com/51070727/112111656-81199180-8bda-11eb-8bc8-a31ca0fccfee.png)
+![(23-03-2021)(Output2-2)](https://user-images.githubusercontent.com/51070727/112111660-81b22800-8bda-11eb-9f86-fee9c416da87.png)
+![(23-03-2021)(Output2-3)](https://user-images.githubusercontent.com/51070727/112111712-95f62500-8bda-11eb-8e63-5c79b80fb038.png)
+
+## Sample Output 3 :
+
+![(23-03-2021)(Output3-1)](https://user-images.githubusercontent.com/51070727/112111746-a3131400-8bda-11eb-8eea-bb69abd57ee4.png)
+![(23-03-2021)(Output3-2)](https://user-images.githubusercontent.com/51070727/112111742-a1e1e700-8bda-11eb-92e5-0c2854c7cca0.png)
